@@ -1,0 +1,7 @@
+{
+  "name": "net.matcha-choco010.helloworld",
+  "displayName": "Hello World",
+  "version": "0.0.1",
+  "unity": "2018.2",
+  "description": "Hello World!"
+}

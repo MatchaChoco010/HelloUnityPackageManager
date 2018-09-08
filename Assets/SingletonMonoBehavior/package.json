@@ -1,0 +1,7 @@
+{
+  "name": "net.matcha-choco010.singletonmonobehaviour",
+  "displayName": "Singleton MonoBehavior",
+  "version": "0.0.1",
+  "unity": "2018.2",
+  "description": "base class for singleton MonoBehaviour"
+}
